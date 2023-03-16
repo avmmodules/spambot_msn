@@ -1,8 +1,6 @@
 '''
-    Description:
-    Send messages from python to messenger.
-
-    Author: AlejandroV
+    Description: Send messages from python to messenger.
+    Author: aulerjbailey
     Video: https://youtu.be/QQb8GbHGMUw
 '''
 import pyautogui, webbrowser, datetime
